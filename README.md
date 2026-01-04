@@ -1,10 +1,16 @@
 # Phism Home
-Chromiumブラウザ向け拡張機能 “Phism Home”。
+Chromiumブラウザ向け拡張機能 “Phism Home”。\
+主な対応ブラウザ：Google Chrome、Microsoft Edge、Opera、Brave、Vivaldi、Arc、Comet、など。\
+※動作検証はGoogle ChromeとMicrosoft Edgeでのみ行っており、それ以外のブラウザでの動作は保障されません。\
+※Firefoxベースのブラウザは非対応です。
 
 ## ダウンロード方法
 上から順に操作していってください。
-### Ａ．GitHub内での操作
+### GitHub内での操作
 １．右上の緑色のボタン「Code」をクリックして、「Local」を選択する。\
 ２．その中の最下部「Download ZIP」をクリックする。\
 完．あなたのデバイスに「chrome_home-main.zip」がダウンロードされます。
-### Ｂ．エクスプローラでの操作
+### ブラウザでの操作
+０．ダウンロードしたZIPファイルを解凍(展開)する。(エクスプローラでの操作)\
+１．お持ちのChromiumベースのブラウザを開く。(README.md最上部にブラウザの参考例があります)\
+２．URL入力欄に「chrome://extensions/」を入力して開く。\
