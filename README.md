@@ -20,7 +20,7 @@ Chromiumブラウザ向け拡張機能 “Phism Home”。\
 ＊　新しいタブを開くと、自動的に`Phism Home`が表示されます。
 
 ## クレジット
-**発想元**: “Search Immersion” ([Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo))\
+**参考**: “Search Immersion” ([Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo))\
 **画像**: “Pixabay API” ([Pixabay](https://pixabay.com))\
 **フォント**: “IBM Plex Sans JP” ([Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Sans+JP)) & “Lato” ([Google Fonts](https://fonts.google.com/specimen/Lato))\
 **JSライブラリ**: “jQuery CDN” ([jQuery CDN](https://releases.jquery.com/)) & “SortableJS” ([GitHub](https://github.com/SortableJS/jquery-sortablejs))
