@@ -20,7 +20,8 @@ Chromiumブラウザ向け拡張機能 “Phism Home”。\
 ＊　新しいタブを開くと、自動的に`Phism Home`が表示されます。
 
 ## 特長
-###グラスモーフィズムUI: ZZZ
+###グラスモーフィズムUI
+aaaa
 
 ## クレジット
 **参考**: “Search Immersion” ([Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo))\
