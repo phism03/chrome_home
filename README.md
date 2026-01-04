@@ -18,3 +18,6 @@ Chromiumブラウザ向け拡張機能 “Phism Home”。\
 ４．ページ内に新たに現れた「**展開して読み込み** (Edge)」「**パッケージ化されていない拡張機能を読み込む** (Chrome)」をクリックする\
 ５．`ブラウザでの操作：０`で解凍(展開)した**フォルダ全体**を選択して読み込む。\
 ＊　新しいタブを開くと、自動的に`Phism Home`が表示されます。
+
+## クレジット
+・発想元：“Search Immersion” by Naikaku [Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo)
