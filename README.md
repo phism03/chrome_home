@@ -20,4 +20,4 @@ Chromiumブラウザ向け拡張機能 “Phism Home”。\
 ＊　新しいタブを開くと、自動的に`Phism Home`が表示されます。
 
 ## クレジット
-・発想元：“Search Immersion” by Naikaku [Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo)
+・発想元: “Search Immersion” by Naikaku (DL: [Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo))
