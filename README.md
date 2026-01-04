@@ -19,10 +19,6 @@ Chromiumブラウザ向け拡張機能 “Phism Home”。\
 ５．`ブラウザでの操作：０`で解凍(展開)した**フォルダ全体**を選択して読み込む。\
 ＊　新しいタブを開くと、自動的に`Phism Home`が表示されます。
 
-## 特長
-###グラスモーフィズムUI
-aaaa
-
 ## クレジット
 **参考**: “Search Immersion” ([Chrome ウェブストア](https://chromewebstore.google.com/detail/search-immersion/kehbabgdahepgobkgjokkfapbhghicfo))\
 **画像**: “Pixabay API” ([Pixabay](https://pixabay.com))\
